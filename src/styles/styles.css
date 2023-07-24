@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav li {
+  text-decoration: none;
+  list-style: none;
+  text-decoration: none;
+  text-align: inline;
+  padding: 0;
+  display: flex;
+}
