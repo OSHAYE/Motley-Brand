@@ -1,6 +1,17 @@
+/*
+primary:#d0a91a
+secondary:#4e4b42
+Accent:#c91f1f
+   */
+
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+.nav ul{
+display: flex;
+text-align: center;
+   background-color: grey;
 }
 
 .nav li {
